@@ -48,10 +48,5 @@ This project is an embedded-system-based secure voting machine designed using AT
 
 ---
 
-## 📷 Project Images
-(Add project images here)
-
----
-
 ## 👨‍💻 Author
 Ritesh Salunke
